@@ -1,2 +1,2 @@
-# PredToR
-Predicting Retention Times
+# PrediToR
+Predicted Time of Retention
